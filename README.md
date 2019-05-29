@@ -16,4 +16,6 @@ Par exemple, pour entrainer un lstm, il faut éxécuter ces notebooks dans l'ord
 - join_immo_par_mois.ipynb ( pour joindre les fichiers de chaque année )
 - lstm.ipynb ( pour entrainer un lstm )
 
+Dans le dossier mise_en_forme, on retrouve un script composé de deux fichiers qui se chargent de faire la mise en forme et la jointure de tous les fichiers sources. Ce qui est plus rapide que de répéter la mise en forme pour chaque année dans un notebook.
+
 
